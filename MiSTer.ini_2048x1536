@@ -1,0 +1,5 @@
+video_mode=2048,26,32,48,1536,3,6,12,200000
+vscale_mode=3
+vga_scaler=0
+composite_sync=1
+vsync_adjust=2
